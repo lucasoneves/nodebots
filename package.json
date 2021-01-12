@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "echo \"This is our 'dev' NPM task\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
